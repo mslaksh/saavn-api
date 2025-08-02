@@ -1,0 +1,6 @@
+name = "saavn-api"
+main = "./src/server.ts"
+compatibility_date = "02.08.2025"
+
+[observability]
+enabled = true
