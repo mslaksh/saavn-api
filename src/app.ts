@@ -58,7 +58,7 @@ export class App {
       '/docs',
       apiReference({
         pageTitle: 'Saavn API Documentation',
-        theme: 'moon',
+        theme: 'purple',
         isEditable: false,
         layout: 'modern',
         darkMode: true,
